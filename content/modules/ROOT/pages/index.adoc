@@ -15,7 +15,7 @@ image::dev-flow.png[Red Hat Products]
 
 == Get started
 
-Your credential to access the hands-on lab:
+Your credentials to access the hands-on lab:
 
 * Username: *{user_name}*
 * Password: *{user_password}*
